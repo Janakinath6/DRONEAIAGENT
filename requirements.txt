@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 openai
+pandas
 google-api-python-client
 google-auth
